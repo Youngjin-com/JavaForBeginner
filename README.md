@@ -1,6 +1,6 @@
 # 초보 개발자를 위한 자바
 
-<img src="https://www.youngjin.com/images/book_cover/9788931469882.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931469882.png" height="350px" style="border: 2px solid grey;">
 
 [초보 개발자를 위한 자바(영진닷컴)](https://blog.naver.com/ydot/223275742604)
 
